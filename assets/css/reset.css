@@ -1,0 +1,63 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    color: inherit;
+	box-sizing: border-box;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	font-family: -apple-system,sans-serif,Dotum,NotoSansKR,system-ui,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Helvetica,"Apple Color Emoji","Segoe UI Emoji";
+    font-size: 16px;
+    word-spacing: 1px;
+    background: #101322;
+    color: #fff;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+a {
+    text-decoration: none;
+}
+img {
+    max-width: 100%;
+    display: block;
+	vertical-align: top;
+    /* 크기값에 보더값 넣어줌 */
+	box-sizing: border-box;
+}
+button,select,input {
+	margin: 0; padding: 0;
+    font: inherit;
+    color: inherit;
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+	outline: none;
+    /* 화살표 삭제 */
+	-webkit-appearance: none; 
+	-moz-appearance: none;
+	appearance: none;
+}
+html {
+	scroll-behavior:smooth;
+}

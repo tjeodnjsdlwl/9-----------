@@ -1,0 +1,31 @@
+{
+    "items":[
+        {
+            "genre":"TV",
+            "thumb":"./assets/img/img-view.jpg",
+            "recommRate":27.9,
+            "platform":"netflex",
+            "title":"더 글로리222",
+            "desc":"학폭에 분노해서 복수하는...",
+            "sort":"1,4"
+        },
+        {
+            "genre":"TV",
+            "thumb":"./assets/img/img-view.jpg",
+            "recommRate":27.9,
+            "platform":"netflex",
+            "title":"나이키",
+            "desc":"학폭에 분노해서 복수하는...",
+            "sort":"2,3,4"
+        },
+        {
+            "genre":"TV",
+            "thumb":"./assets/img/img-view.jpg",
+            "recommRate":27.9,
+            "platform":"netflex",
+            "title":"나이키",
+            "desc":"학폭에 분노해서 복수하는...",
+            "sort":"2,3,4"
+        }
+    ]
+}
